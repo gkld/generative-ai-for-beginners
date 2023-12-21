@@ -1,0 +1,30 @@
+name: python3 
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - python=3.9.*      
+  - python-dateutil
+  - pytz
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - xlrd
+  - openpyxl
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - jupyter
+  - tqdm
+  - python-dotenv
+  - openai
+  - tiktoken
+  - ipywidgets
+  - pip:
+    - pmdarima        
+    - tensorflow
+    - keras
+prefix: /Users/Frank/miniconda3/bin/python3
